@@ -1,0 +1,5 @@
+Dreamwidth authorization protocols.
+Files containing functions about the tokens, 
+keys and authorization for the connection of the 
+client to the designated URL.
+Includes security and secret key token encryption
